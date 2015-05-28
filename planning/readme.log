@@ -1,0 +1,17 @@
+
+ERD at
+https://www.lucidchart.com/invitations/accept/ac4f34aa-448b-4205-bf47-70df5bf8369d
+
+front end will look same as project 3 but this will be backbone instead of rails.
+
+Also instead of using 4 tables in project 3, i will only use 2, a single to many relationship
+model.
+
+
+user stories:
+create account
+save a list of potential homes to bid on
+bid on selected home
+choose contract preferences for specific needs of user
+send contract after review
+end
